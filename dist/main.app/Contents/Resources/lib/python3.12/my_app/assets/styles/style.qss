@@ -1,0 +1,52 @@
+QPushButton[class="button_circle"]{
+    background-color: #323232;
+    border-radius: 6px;
+    width: 12px;
+    height: 12px;
+}
+
+QPushButton#close_btn {
+    background-color: #e84545;
+    color: white;
+}
+
+QPushButton#mini_btn {
+    background-color: orange;
+    color: white;
+}
+
+QPushButton#fullscreen_btn {
+    background-color: grey;
+    color: white;
+}
+
+#main_window{
+    background-color: red;
+}
+
+#left_panel{
+    background: #212121;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+#right_panel{
+    background: #323232;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+}
+#main_widget{
+    background: #323232;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+}
+#left_layout{
+    padding: 10px;
+    background-color: red;
+}
+
+#open_history_item:hover{
+    background-color: red;
+}
